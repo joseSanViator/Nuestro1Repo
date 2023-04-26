@@ -2,4 +2,4 @@ Este es el primer archivo que subimos a un repositorio.
 ¡Hola mundo!
 Añado esta tercera linea
 añado una cuarta linea de texto al fichero
-modificado en secundaria
+ESTA LINEA LA HE AÑADIDO EN LA RAMA SECUNDARIA
