@@ -3,3 +3,8 @@ Este es el primer archivo que subimos a un repositorio.
 Añado esta tercera linea
 añado una cuarta linea de texto al fichero
 ESTA LINEA LA HE AÑADIDO EN LA RAMA SECUNDARIA
+Añado mas lineas a secundaria
+1
+2
+3
+4
